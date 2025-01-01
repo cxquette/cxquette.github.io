@@ -1,3 +1,4 @@
+</h5>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,3 +95,6 @@ html2canvas([document.getElementById('banner')], {
 </script>
 </body>
 </html>
+</body>
+
+</h5>
